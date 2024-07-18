@@ -1,0 +1,9 @@
+asyncio
+paramiko
+regex
+scapy
+requests
+sockets
+aiogram==2.23.1
+subprocess.run
+
